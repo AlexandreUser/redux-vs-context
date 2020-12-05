@@ -1,0 +1,22 @@
+.counterContainer{
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 120px;
+    min-height: 150px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.counterNumber{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 26px;
+}
+.resetButton{
+   width: 80px;
+   margin-left: calc(50% - 40px);
+   border: none;
+   color: #009688;
+   border-radius: 10px;
+   min-height: 50px;
+}
